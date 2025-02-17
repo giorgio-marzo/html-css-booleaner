@@ -45,3 +45,21 @@ ul{
    padding-left: 20px;
     
 }
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+
+.riga-az{
+    background-color: aqua;
+}
+
+.cell{
+    width: 25%;
+}
+
+.cell2{
+    width: 50%;
+}
