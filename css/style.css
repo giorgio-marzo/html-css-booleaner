@@ -4,11 +4,17 @@
     box-sizing: border-box;
 }
 
-.header-logo{
-    background-color: dodgerblue;
-    height: 50px;
-    background-image: url(../img/pattern.png);
+header{
+    background-image: url("../img/pattern.png");
+    background-color: cornflowerblue;
     background-size: contain;
+    
+}
+
+.header-logo{
+    height: 110px;
+   padding-top: 60px;
+   padding-bottom: 10px;
 
 }
 
@@ -17,9 +23,24 @@
     color: lightskyblue;
 }
 
+.discale{
+    font-size: 10px;
+}
 
-p1{
+.grigio{
     font-style: normal;
     color: #808080;
 }
 
+.space{
+    padding-top: 20px;
+}
+
+.yellow{
+background-color: yellow;
+}
+
+.list{
+    padding-top: 20px;
+    
+}
