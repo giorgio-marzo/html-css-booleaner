@@ -3,3 +3,23 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.header-logo{
+    background-color: dodgerblue;
+    height: 50px;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+
+}
+
+
+.author{
+    color: lightskyblue;
+}
+
+
+p1{
+    font-style: normal;
+    color: #808080;
+}
+
